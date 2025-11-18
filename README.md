@@ -1,6 +1,7 @@
 # 🌳 Gerenciador de Contatos com Árvore Binária de Busca (C)
 
 Um sistema de console desenvolvido em **C** para gerenciar contatos telefônicos utilizando uma **Árvore Binária de Busca (ABB)**. Os contatos são organizados e buscados de forma eficiente, tendo o **nome** como chave de ordenação.
+***ATIVIDADE DA DISCIPLINA DE ESTRUTURA E RECUPERAÇÃO DE DADOS DA PUC CAMPINAS***
 
 ---
 
@@ -20,6 +21,9 @@ typedef struct Contato {
     struct Contato* direita;
 } Contato;
 ```
+
+---
+
 ### Funcionalidades Implementadas
 | Função                | Descrição                                                             |
 | --------------------- | --------------------------------------------------------------------- |
@@ -27,6 +31,8 @@ typedef struct Contato {
 | **Buscar_Contato**    | Procura um contato pelo nome.                                         |
 | **Remover_Contato**   | Remove um contato da árvore (três casos: folha, 1 filho ou 2 filhos). |
 | **Imprimir_Contatos** | Lista todos os contatos em ordem alfabética (percurso in-order).      |
+
+---
 
 ### 📜 Menu Interativo
 1. Adicionar contato
