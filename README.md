@@ -1,7 +1,7 @@
 # 🌳 Gerenciador de Contatos com Árvore Binária de Busca (C)
 
 Um sistema de console desenvolvido em **C** para gerenciar contatos telefônicos utilizando uma **Árvore Binária de Busca (ABB)**. Os contatos são organizados e buscados de forma eficiente, tendo o **nome** como chave de ordenação.
-***ATIVIDADE DA DISCIPLINA DE ESTRUTURA E RECUPERAÇÃO DE DADOS DA PUC CAMPINAS***
+***(ATIVIDADE DA DISCIPLINA DE ESTRUTURA E RECUPERAÇÃO DE DADOS DA PUC CAMPINAS)***
 
 ---
 
